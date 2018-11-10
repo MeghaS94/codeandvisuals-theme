@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>Code &#38; Visuals</title>
+  <link href="http://localhost:4000"/>
+  <link type="application/atom+xml" rel="self" href="http://localhost:4000/feeds/posts/default"/>
+  <updated>2018-11-10T23:01:35+05:30</updated>
+  <id>http://localhost:4000</id>
+  <author>
+    <name>Yining Karl Li</name>
+  </author>
+
+  
+  <entry>
+    <id>http://localhost:4000/2013/10/hello-world.html</id>
+    <link type="text/html" rel="alternate" href="http://localhost:4000/2013/10/hello-world.html"/>
+    <title>Hello World</title>
+    <published>2013-10-12T00:00:00+05:30</published>
+    <updated>2013-10-12T00:00:00+05:30</updated>
+    <author>
+        <name>Yining Karl Li</name>
+    </author>
+    <content type="html">&lt;p&gt;Hello World! This is Code &amp;amp; Visuals on Jekyll!&lt;/p&gt;
+</content>
+  </entry>
+  
+ 
+</feed>
